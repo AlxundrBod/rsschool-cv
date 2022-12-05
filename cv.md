@@ -25,3 +25,23 @@ Now is the time to start a new chapter of my life and I believe, that my ability
 + javaScript (Basic)
 + Microsoft Visio
 + Autocad (Basic)
+
+
+## Code example
+
+
+```
+function capitalizeWord(word) {
+  return word[0].toUpperCase() + word.slice(1);
+}
+```
+
+
+## Experience
+
+
++ Electrician - 1 year
++ Electrical company engineer of the second grade - 1 year
++ Electrical company engineer of the first grade - 1 year
++ Electrical company lead engineer- 5 years
++ Head of the purchasing department - 2 years
