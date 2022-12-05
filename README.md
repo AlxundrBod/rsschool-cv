@@ -1,1 +1,1 @@
-# rsschool-cv
+https://AlxundrBod.github.io/rsschool-cv/cv
