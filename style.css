@@ -277,3 +277,54 @@ main {
         width: 100%;
     }
 }
+
+.footer {
+    /*border-top: 5px solid rgba(0, 0, 0, 0.3);*/
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+}
+
+.git {
+    font-family: CenturyGothic, sans-serif;
+    position: relative;
+    color: white;
+    font-weight: 300;
+    letter-spacing: 2px;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.git-link {
+    font-family: CenturyGothic, sans-serif;
+    position: relative;
+    color: white;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-decoration: none;
+    transition: .5s;
+}
+
+.git-link:hover {
+    color: rgba(0, 0, 0, 1);
+    text-decoration-line: underline;
+}
+
+.github-icon {
+    width: 30px;
+    height: 30px;
+}
+
+.rs-icon {
+    width: 100px;
+    height: 30px;
+}
+
+.date {
+    font-family: CenturyGothic, sans-serif;
+    position: relative;
+    color: white;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
