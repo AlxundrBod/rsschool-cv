@@ -51,6 +51,7 @@ function capitalizeWord(word) {
 
 
 + Federal State Budgetary Educational Institution of Higher Education "Volgograd State Agricultural University"
++ RS School Stage 0
 + w3schools HTML Tutorial
 + w3schools CSS Tutorial
 
